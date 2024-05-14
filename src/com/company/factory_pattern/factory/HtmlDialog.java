@@ -1,7 +1,7 @@
-package com.company.factory;
+package com.company.factory_pattern.factory;
 
-import com.company.buttons.Button;
-import com.company.buttons.HtmlButton;
+import com.company.factory_pattern.buttons.Button;
+import com.company.factory_pattern.buttons.HtmlButton;
 
 public class HtmlDialog extends Dialog{
 

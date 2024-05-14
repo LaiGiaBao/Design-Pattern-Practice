@@ -1,6 +1,6 @@
-package com.company.factory;
+package com.company.factory_pattern.factory;
 
-import com.company.buttons.Button;
+import com.company.factory_pattern.buttons.Button;
 
 public abstract class Dialog {
 	public void renderWindow() {

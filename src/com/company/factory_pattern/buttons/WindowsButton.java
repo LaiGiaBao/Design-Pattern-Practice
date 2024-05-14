@@ -1,4 +1,4 @@
-package com.company.buttons;
+package com.company.factory_pattern.buttons;
 
 public class WindowsButton implements Button{
 

@@ -1,10 +1,10 @@
-package com.company;
+package com.company.factory_pattern;
 
 import java.util.Scanner;
 
-import com.company.factory.Dialog;
-import com.company.factory.HtmlDialog;
-import com.company.factory.WindowDialog;
+import com.company.factory_pattern.factory.Dialog;
+import com.company.factory_pattern.factory.HtmlDialog;
+import com.company.factory_pattern.factory.WindowDialog;
 
 public class FactoryPatternDemo {
 	private static Dialog dialog;
