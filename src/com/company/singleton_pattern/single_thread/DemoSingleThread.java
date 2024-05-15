@@ -1,5 +1,7 @@
 package com.company.singleton_pattern.single_thread;
 
+import com.company.singleton_pattern.Singleton;
+
 public class DemoSingleThread {
 	public static void main(String[] args) {
 		Singleton singleton = Singleton.getInstance("FOO");

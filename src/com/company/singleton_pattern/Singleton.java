@@ -1,4 +1,4 @@
-package com.company.singleton_pattern.single_thread;
+package com.company.singleton_pattern;
 
 public final class Singleton {
 	private static Singleton instance;
